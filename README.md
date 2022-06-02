@@ -26,7 +26,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrik-07&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?Patrik-07=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrik-07&show_icons=true&theme=radical)
 
 <!---
 Patrik-07/Patrik-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
