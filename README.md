@@ -8,10 +8,8 @@
 ## My stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrik-07&show_icons=true&)
 
-## Lanugages I use most:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrik-07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Technologies:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
