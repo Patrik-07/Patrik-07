@@ -1,9 +1,8 @@
 ## About me:
-- 👋 Hi, I’m @Patrik-07
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Patrik Santa
+- 👀 I’m interested in software development, especially 3D programming.
 - 🌱 I’m currently learning software engineering at Budapest University of Technology.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 U can reach me on: patrik.santa07@gmail.com
 
 ## My stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrik-07&show_icons=true&)
