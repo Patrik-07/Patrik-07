@@ -1,7 +1,7 @@
 ## About me:
 - 👋 Hi, I’m Patrik Santa.
 - 👀 I’m interested in software development, especially 3D programming.
-- 🌱 I’m currently learning software engineering at Budapest University of Technology.
+- 🌱 I’m currently studying software engineering at Budapest University of Technology.
 - 📫 You can reach me on: patrik.santa07@gmail.com
 
 ## My stats:
