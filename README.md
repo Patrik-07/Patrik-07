@@ -1,3 +1,4 @@
+## About me:
 - 👋 Hi, I’m @Patrik-07
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning software engineering at Budapest University of Technology.
