@@ -1,5 +1,5 @@
 ## About me:
-- 👋 Hi, I’m Patrik Santa.
+- 👋 Hi, I’m Patrik Sánta.
 - 👀 I’m interested in software development, especially 3D programming.
 - 🌱 I’m currently studying software engineering at Budapest University of Technology.
 - 📫 You can reach me at: patrik.santa07@gmail.com
