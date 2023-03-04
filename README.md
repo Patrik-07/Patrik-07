@@ -1,8 +1,8 @@
 ## About me:
 - 👋 Hi, I’m Patrik Sánta.
-- 👀 I’m interested in software development, especially 3D programming.
+- 👀 I’m interested in software development, web development.
 - 🌱 I’m currently studying software engineering at Budapest University of Technology.
-- 📫 You can reach me at: patrik.santa07@gmail.com
+- 📫 You can reach me at: patrik.santa07@gmail.com, linkedin.com/in/patrik-santa-7520a0241
 
 ## My stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrik-07&show_icons=true&)
