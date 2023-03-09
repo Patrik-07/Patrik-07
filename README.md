@@ -3,8 +3,10 @@
 * 🏫  I’m currently studying MSc software engineering at Budapest University of Technology.
 
 ## Contact:
-<a href="https://www.linkedin.com/in/patrik-santa-7520a0241/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;
-
+<div>
+  <a href="patrik.santa07@gmail.com"><img src="https://github.com/devicons/devicon/blob/master/icons/gmail/gmail-original.svg" title="Gmail" alt="Gmail" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/patrik-santa-7520a0241/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;
+</div>
 
 ## :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrik-07&show_icons=true&)
@@ -21,3 +23,4 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
+</div>
