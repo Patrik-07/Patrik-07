@@ -1,9 +1,9 @@
-## 👋 Hi, I’m Patrik Sánta.
-* 👀 I’m interested in software development, especially web development.
-* 🌱 I’m currently studying MSc software engineering at Budapest University of Technology.
+## 👋 Hi, I’m Patrik Sánta
+* 👀  I’m interested in software development, especially web development.
+* 🏫  I’m currently studying MSc software engineering at Budapest University of Technology.
 
 ## Contact:
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
+<a href="https://www.linkedin.com/in/patrik-santa-7520a0241/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;
 
 
 ## :
