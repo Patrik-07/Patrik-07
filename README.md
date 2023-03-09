@@ -1,11 +1,14 @@
-## About me:
-- 👋 Hi, I’m Patrik Sánta.
-- 👀 I’m interested in software development, especially web development.
-- 🌱 I’m currently studying software engineering at Budapest University of Technology.
-- 📫 You can reach me at: patrik.santa07@gmail.com, linkedin.com/in/patrik-santa-7520a0241
+## 👋 Hi, I’m Patrik Sánta.
+* 👀 I’m interested in software development, especially web development.
+* 🌱 I’m currently studying MSc software engineering at Budapest University of Technology.
 
-## My stats:
+## Contact:
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
+
+
+## :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrik-07&show_icons=true&)
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
