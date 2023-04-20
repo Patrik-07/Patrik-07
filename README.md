@@ -6,6 +6,7 @@
 <div>
   <a href="mailto: patrik.santa07@gmail.com"><img src="icons8-gmail-logo.svg" title="Gmail" alt="Gmail" width="40" height="40"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/patrik-santa-7520a0241/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;
+    <a href="tel:+36307158604"><img src="![phone-call](https://user-images.githubusercontent.com/60797275/233496090-675320af-4c3a-4155-bb62-e72ff1f8645e.png)" title="Phone" alt="Phone" width="40" height="40"/></a>&nbsp;
 </div>
 
 ## 💪🏼 My stats
