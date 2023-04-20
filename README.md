@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Patrik Sánta
-* 👀  I’m interested in software development, especially web development.
+* 👀  I’m interested in software development, especially web and full-stack development.
 * 🎓  I’m currently studying MSc software engineering at Budapest University of Technology.
 
 ## 📬 Contact me
