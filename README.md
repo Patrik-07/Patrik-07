@@ -24,4 +24,4 @@
 </div>
 <p></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrik-07&show_icons=true&)
+![Patrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrik-07&show_icons=true&)
