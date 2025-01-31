@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Patrik Sánta
-### 👀  I’m interested in software development, especially web and full-stack development.
 
 ## 📬 Contact me
 <div>
